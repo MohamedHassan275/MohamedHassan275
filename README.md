@@ -12,6 +12,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MohamedHassan275.MohamedHassan275&"  />
+</div>
+
+###
+
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -22,7 +28,7 @@
 
 <br clear="both">
 
-<h5 align="left">I'm Mohamed Hassan from Cairo<br><br>🔭 I’m working as GermaniaTek<br>- 📚 I'm currently learning Dart (Flutter).<br>- ⚡ In my free time I learning mobile development</h5>
+<h3 align="left">I'm Mohamed Hassan from Cairo<br><br>🔭 I’m working as GermaniaTek<br>- 📚 I'm currently learning Dart (Flutter).<br>- ⚡ In my free time I learning mobile development</h3>
 
 ###
 
@@ -70,8 +76,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
